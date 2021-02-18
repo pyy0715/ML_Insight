@@ -1,9 +1,19 @@
 # Table of contents
 
-* [TIL](README.md)
-* [Untitled](untitled-1.md)
-* [Untitled](untitled.md)
-* [Untitled](untitled-2.md)
+* [ToDo List](README.md)
+* [Learned Lecture, Book](learned-lecture-book.md)
 
-## ff
+## DL
+
+* [NLP](dl/nlp.md)
+* [RecSys](dl/recsys.md)
+* [Graph](dl/graph.md)
+
+## ML
+
+---
+
+* [Math](math.md)
+* [Data Analysis](data-analysis.md)
+* [Visualization](visualization.md)
 
